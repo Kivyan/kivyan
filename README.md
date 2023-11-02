@@ -1,9 +1,9 @@
 # Olá, Kivyan aqui! 
 
-Sou a Kivyan, e sou de Curitiba - Pr. 
-Venho estudando a área desde 2022. 
-Tenho conhecimento em front-end, e atualmente 
-estudo o curso de fullstack da Cubos Academy
+Sou a Kivyan, e sou de Curitiba - Pr.  
+Venho estudando a área desde 2022.  
+Tenho conhecimento em front-end, e atualmente  
+estudo o curso de fullstack da Cubos Academy  
 para me especializar na área como um todo. 
 
 ## Contato 
