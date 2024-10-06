@@ -1,10 +1,9 @@
-# Olá, Kivyan aqui! 
+# Hi, i'm Kivyan! 
 
-Sou a Kivyan, e sou de Curitiba - Pr.  
-Venho estudando a área desde 2022.  
-Tenho conhecimento em front-end, e atualmente  
-estudo o curso de fullstack da Cubos Academy  
-para me especializar na área como um todo. 
+I'm Kivyan, and I'm from Curitiba - Pr, Brazil. I currently live in Dublin, Ireland.  
+I have been studying the area since 2022.  
+I have knowledge in front-end, in the first half of this year I finished my last software development course  
+and I am currently looking for my first opportunity as a front-end developer.
 
 ## Contato 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolayny-kivyan-de-avila-a8093253/)
